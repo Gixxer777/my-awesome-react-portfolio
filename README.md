@@ -1,1 +1,2 @@
-# my-awesome-react-portfolio
+# My Awesome React Portfolio
+
