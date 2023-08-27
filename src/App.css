@@ -1,0 +1,113 @@
+#aboutme {
+    font-size: 24px;
+    margin: 10px;
+    padding: 30px;
+    text-indent: 50px;
+    background-color: rgb(250, 223, 201);
+    height: 100vh;
+}
+
+#thanks {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 24px;
+    height: 100vh;
+}
+
+#mygithub {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+#myemail {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+#myphone {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}   
+
+#booksearch {
+    padding-left: 30px;
+    padding-top: 30px;
+    height: 200px;
+    width: 350px;
+}
+
+#booksearchtext {
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+#Marvel {
+    padding-left: 30px;
+    padding-top: 30px;
+    height: 200px;
+    width: 350px;
+}
+
+#firstprojecttext {
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+#passwordgenerator {
+    padding-left: 30px;
+    padding-top: 30px;
+    height: 200px;
+    width: 350px;
+}
+
+#passgeneratortext {
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+#texteditor {
+    padding-left: 30px;
+    padding-top: 30px;
+    height: 200px;
+    width: 350px;
+}
+
+#texteditortext {
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+
+
+h1 {
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 48px;
+    padding: 20px;
+}
+
+.contactme {
+    background-color: rgb(250, 223, 201);
+    font-size: 24px;
+    padding: 20px;
+    height: 100vh;
+}
+
+.home {
+    background-color: rgb(250, 223, 201);
+    font-size: 24px;
+    padding: 20px;
+    text-align: center;
+}
