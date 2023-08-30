@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-awesome-react-portfolio/static/css/main.c63da59b.css",
+    "main.js": "/my-awesome-react-portfolio/static/js/main.5f5c9718.js",
+    "static/media/Marvel.png": "/my-awesome-react-portfolio/static/media/Marvel.fd6df0ee8c893f4da2dc.png",
+    "static/media/booksearch.png": "/my-awesome-react-portfolio/static/media/booksearch.7dd07173a123a53f4cb6.png",
+    "static/media/mypicture.jpg": "/my-awesome-react-portfolio/static/media/mypicture.f1401e484e92505cca9e.jpg",
+    "static/media/passwordgenerator.png": "/my-awesome-react-portfolio/static/media/passwordgenerator.6d890662415c18626017.png",
+    "static/media/texteditor.png": "/my-awesome-react-portfolio/static/media/texteditor.b01e2fb7d86b4ffdd8cc.png",
+    "index.html": "/my-awesome-react-portfolio/index.html",
+    "main.c63da59b.css.map": "/my-awesome-react-portfolio/static/css/main.c63da59b.css.map",
+    "main.5f5c9718.js.map": "/my-awesome-react-portfolio/static/js/main.5f5c9718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c63da59b.css",
+    "static/js/main.5f5c9718.js"
+  ]
+}
